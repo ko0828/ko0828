@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KO GiEun</h1>
+<h1 align="center">Hi 👋, I'm KO Taerim</h1>
 <h3 align="center">새싹 개발자</h3>
 
 <h3 align="left">Connect with me:</h3>
